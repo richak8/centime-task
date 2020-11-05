@@ -1,0 +1,6 @@
+.itemsRow {
+    display: flex;
+    justify-content: space-between;
+    flex-basis: 20rem;
+    margin: 1rem;
+}

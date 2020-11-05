@@ -1,0 +1,8 @@
+.sankeyWrapper {
+    display: flex;
+    border: 1px solid;
+    margin: 2rem;
+    padding: 2rem;
+    justify-content: center;
+    align-items: center;
+}
